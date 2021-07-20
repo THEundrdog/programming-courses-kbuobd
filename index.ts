@@ -4,9 +4,11 @@
 //######################################################################
 
 
- let num1: number;
-let num2 : number;
-num1 = 123;
-num2 = 457;
+ let num1, num2, num3, number;
+ 
+ num1 = 40;
+ num2 = 30; 
+ num3 = num1 - num2;
 
-console.log(num1 + num2);
+ console.log(num3);
+ 
