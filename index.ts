@@ -7,4 +7,5 @@
  
 let mytext : string;
 mytext = "السلام عليكم ";
+ mytext = "انا شكيب"
 console.log(mytext);
