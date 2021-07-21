@@ -3,9 +3,8 @@
 //###########################   Programming Courses  ###################
 //######################################################################
 
-let myText : string;
-myText = "السلام عليكم SSTech"
-console.log("myText") ;
-
+let myText : string; 
+myText = "SSTechالسلام عليكم ان اتعلم البرمجة علي قناة " ;
+console.log("myText");
  
  
