@@ -5,6 +5,8 @@
 
 let myText : string; 
 myText = "SSTechالسلام عليكم, ان اتعلم البرمجة علي قناة " ;
+myText = "وانا متحمس جدا"
 console.log("myText");
+
  
  
