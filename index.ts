@@ -3,12 +3,10 @@
 //###########################   Programming Courses  ###################
 //######################################################################
 
+let mytext : string;
 
- let num1, num2, num3, number;
+mytext = "السعي هو احد اسباب الرضاء عن نفسك و تصلحك مع الحاضر";
+console.log("mytext");
+
  
- num1 = 10;
- num2 = 30; 
- num3 = num1 * num2;
-
- console.log(num3); 
  
