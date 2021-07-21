@@ -7,4 +7,4 @@
  
 let mynum : number;
 mynum = 100;
-console.log("number"); 
+console.log (mynum);  
