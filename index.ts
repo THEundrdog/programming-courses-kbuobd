@@ -5,8 +5,6 @@
 
 
  
-let mytext : string;
-mytext = "السلام عليكم ";
- mytext = mytext + "انا شكيب"
-console.log(mytext);
-
+let mynum : number;
+mynum = 100;
+console.log("number"); 
