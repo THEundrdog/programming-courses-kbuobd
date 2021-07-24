@@ -7,9 +7,11 @@
 
 
 let myNumber1, myNumber2, myNumber3: number
-myNumber1 = 55;
-myNumber2 = 110;
-myNumber3 = myNumber1 + myNumber2;
+
+myNumber1 = parseInt(prompt("المرجو ادخال العدد الاول"));
+myNumber2 = parseInt(prompt("المرجو ادخال العدد الثاني "));
+
+myNumber3 = myNumber1 + myNumber3;
 
 console.log(myNumber3);
 
