@@ -6,14 +6,12 @@
 
 
 
-let mynumber1, mynumber2, mynumber3 : number;
+let myNumber1, myNumber2, myNumber3: number
+myNumber1 = 55;
+myNumber2 = 110;
+myNumber3 = myNumber1 + myNumber2;
 
-mynumber1 = 150;
-mynumber2 = 50;
-mynumber3 = mynumber1 + mynumber2;
-
-console.log("mynumber3");
-
+console.log(myNumber3);
 
 
 
